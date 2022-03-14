@@ -1,0 +1,6 @@
+[book]
+authors = ["Gugle"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "尘光"
